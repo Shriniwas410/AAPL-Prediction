@@ -1,8 +1,8 @@
-**AAPL Stock Price Prediction**
+##AAPL Stock Price Prediction
 
 This repository contains a Python script for predicting the stock prices of Apple Inc. using different regression models.
 
-**Description**
+##Description
 
 The script uses historical stock price data of Apple Inc. downloaded from Yahoo! Finance in CSV format. It applies three different regression models - Linear Regression, Ridge Regression, and Lasso Regression - to predict future stock prices.
 Features
@@ -12,7 +12,7 @@ Features
 - Prediction of future stock prices using Linear Regression, Ridge Regression, and Lasso Regression models.
 - Comparison of the performance of the three models.
   
-**How to Use**
+##How to Use
 
 1. Clone this repository.
 2. Download the historical stock price data of Apple Inc. from Yahoo! Finance in CSV format.
@@ -20,12 +20,12 @@ Features
 4. Run the script.
 
 
-**Requirements**
+##Requirements
 
 - Python 3.6 or above
 - Libraries: numpy, pandas, matplotlib, sklearn, datetime
   
-**Code Structure**
+##Code Structure
 
 - The script first imports the necessary libraries.
 - It then reads the CSV file containing the historical stock price data.
